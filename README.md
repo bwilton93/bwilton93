@@ -3,6 +3,7 @@
 🌱 I’m currently learning ...
 - C#
 - .NET development
+- React.js
 
 <!--
 **bwilton93/bwilton93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
