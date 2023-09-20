@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ...
-- C#
-- .NET development
 - React.js
 - TypeScript
+- C++
+- Unreal Engine
 
 <!--
 **bwilton93/bwilton93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
