@@ -1,4 +1,4 @@
-l### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - Python data science projects involving Formula 1 results predictors to help me win my fantasy league
